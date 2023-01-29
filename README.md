@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Insidethemask
+- 👋 Hi, I’m @Ankit Mishra
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-> am2403054@gmail.com
 
 <!---
